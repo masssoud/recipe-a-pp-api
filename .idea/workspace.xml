@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e347704-1525-4a9f-98aa-04a27a14b329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/recipe-a-pp-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590930160742</updated>
       <workItem from="1590930169315" duration="7565000" />
-      <workItem from="1591261286466" duration="490000" />
+      <workItem from="1591261286466" duration="1953000" />
     </task>
     <servers />
   </component>
@@ -89,10 +86,18 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="634" y="85" width="642" height="907" key="#Dockerfile/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1590942418554" />
+    <state x="667" y="344" width="576" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591264123065">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="667" y="344" width="576" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1591264123065" />
     <state x="2310" y="116" width="642" height="561" key="#docker-compose.yml:_Compose_Deployment" timestamp="1590953739494">
       <screen x="1920" y="0" width="1366" height="768" />
     </state>
     <state x="2310" y="116" width="642" height="561" key="#docker-compose.yml:_Compose_Deployment/1920.0.1366.768/0.27.1920.1053@1920.0.1366.768" timestamp="1590953739494" />
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1591263823760">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/1920.0.1366.768/0.27.1920.1053@0.27.1920.1053" timestamp="1591263823760" />
     <state x="685" y="453" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590931173626">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
