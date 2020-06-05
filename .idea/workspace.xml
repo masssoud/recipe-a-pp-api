@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e347704-1525-4a9f-98aa-04a27a14b329" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/core/tests" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/core/tests" />
+    </key>
   </component>
   <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
     <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
@@ -76,7 +80,7 @@
       <updated>1590930160742</updated>
       <workItem from="1590930169315" duration="7565000" />
       <workItem from="1591261286466" duration="4118000" />
-      <workItem from="1591266911485" duration="3779000" />
+      <workItem from="1591266911485" duration="9381000" />
     </task>
     <servers />
   </component>
